@@ -1,0 +1,10 @@
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Models\bin\Debug\GameWebApi.Models.dll
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Models\bin\Debug\GameWebApi.Models.pdb
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Models\obj\Debug\GameWebApi.Models.csprojResolveAssemblyReference.cache
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Models\obj\Debug\GameWebApi.Models.dll
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Models\obj\Debug\GameWebApi.Models.pdb
+C:\Users\KatuLobotomia\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Models\bin\Debug\GameWebApi.Models.dll
+C:\Users\KatuLobotomia\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Models\bin\Debug\GameWebApi.Models.pdb
+C:\Users\KatuLobotomia\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Models\obj\Debug\GameWebApi.Models.csprojResolveAssemblyReference.cache
+C:\Users\KatuLobotomia\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Models\obj\Debug\GameWebApi.Models.dll
+C:\Users\KatuLobotomia\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Models\obj\Debug\GameWebApi.Models.pdb

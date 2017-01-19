@@ -1,0 +1,13 @@
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Web.Common\bin\Debug\GameWebApi.Web.Common.dll
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Web.Common\bin\Debug\GameWebApi.Web.Common.pdb
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Web.Common\bin\Debug\log4net.dll
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Web.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Web.Common\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Web.Common\bin\Debug\System.Web.Http.dll
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Web.Common\bin\Debug\log4net.xml
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Web.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Web.Common\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Web.Common\bin\Debug\System.Web.Http.xml
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Web.Common\obj\Debug\GameWebApi.Web.Common.csprojResolveAssemblyReference.cache
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Web.Common\obj\Debug\GameWebApi.Web.Common.dll
+C:\Users\Katulobotomy\Documents\Visual Studio 2015\Projects\GameWebApi\GameWebApi.Web.Common\obj\Debug\GameWebApi.Web.Common.pdb
